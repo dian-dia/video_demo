@@ -4,7 +4,7 @@ Demo videos for the paper:
 
 This repository contains three demonstration videos showing the adaptive droplet routing results on a digital microfluidic chip using our proposed **IL-RL-CL** (Imitation Learning + Reinforcement Learning + Curriculum Learning) framework.
 
-We provide three demo videos, each demonstrating adaptive online droplet routing with **100 agents** on a **150×150 chip**. Every trajectory is randomly generated. 
+We provide three demo videos, each demonstrating adaptive online droplet routing with **100 agents** on a **150×150 chip**.
 
 In the visualizations, agents are represented by solid circles in different colors, and their corresponding target positions are marked by hollow circles of the same color.
 
